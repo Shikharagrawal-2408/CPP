@@ -8,14 +8,23 @@ Here you’ll find concise, well‑commented examples that illustrate how each l
 ## 📂 Repository Layout
 
 CPP/
+
 ├── 01_basics/ # Hello World, IO, variables, data types
+
 ├── 02_control_flow/ # if‑else, switch, loops
+
 ├── 03_functions/ # value vs reference, default args, inline
+
 ├── 04_oop/ # classes, structs, inheritance, polymorphism
+
 ├── 05_memory/ # pointers, smart pointers, RAII
+
 ├── 06_templates/ # function & class templates, SFINAE snippets
+
 ├── 07_exceptions/ # try‑catch, custom exceptions
+
 ├── 08_stl_overview/ # vector, map, algorithms, iterators (just usage‐level demos)
+
 ├── 09_filesystem/ # file IO streams, C++17 <filesystem>
 
 ---
@@ -26,12 +35,16 @@ CPP/
 
 ---
 
-## ⚙️ Building & Running
+### ⚙️ Building & Running
+
+Compile any example with a modern compiler(g++, clang++) 
 
 Compile any example with a modern compiler (g++, clang++):
 ---
 
 ### ✨ Why This Repo?
+---
+
 📚 Quick refresher before interviews or exams
 
 🧑‍💻 Reference for syntax & edge‑cases while coding
@@ -54,11 +67,11 @@ Compile any example with a modern compiler (g++, clang++):
 ### 🤝 Contributing
 Feel free to open issues for:
 
-Typos or inaccuracies
+   Typos or inaccuracies
 
-Requests for new language topics
+   Requests for new language topics
 
-Code style improvements
+    Code style improvements
 
 PRs are welcome as long as they stay within the core‑C++ scope (no full DSA solutions here).
 
