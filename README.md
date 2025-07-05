@@ -39,11 +39,12 @@ CPP/
 
 Compile any example with a modern compiler(g++, clang++) 
 
-Compile any example with a modern compiler (g++, clang++):
 ---
 
 ### ✨ Why This Repo?
 ---
+
+hell**hfhssh**
 
 📚 Quick refresher before interviews or exams
 
@@ -67,11 +68,11 @@ Compile any example with a modern compiler (g++, clang++):
 ### 🤝 Contributing
 Feel free to open issues for:
 
-   Typos or inaccuracies
+├── Typos or inaccuracies
 
-   Requests for new language topics
+├── Requests for new language topics
 
-    Code style improvements
+├── Code style improvements
 
 PRs are welcome as long as they stay within the core‑C++ scope (no full DSA solutions here).
 
