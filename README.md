@@ -42,9 +42,6 @@ Compile any example with a modern compiler(g++, clang++)
 ---
 
 ### ✨ Why This Repo?
----
-
-hell**hfhssh**
 
 📚 Quick refresher before interviews or exams
 
