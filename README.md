@@ -52,24 +52,24 @@ Compile any example with a modern compiler(g++, clang++)
 ---
 
 ### 🗒️ To‑Do
- Add concise demos for constexpr and consteval
+ - [ ] Add concise demos for constexpr and consteval
 
- Expand smart‑pointer section (unique_ptr, shared_ptr, weak_ptr)
+ - [ ] Expand smart‑pointer section (unique_ptr, shared_ptr, weak_ptr)
 
- Provide CMakeLists.txt for multi‑file builds
+ - [ ] Provide CMakeLists.txt for multi‑file builds
 
- Add cheat‑sheet PDF (under /docs)
+ - [ ] Add cheat‑sheet PDF (under /docs)
 
 ---
 
 ### 🤝 Contributing
 Feel free to open issues for:
 
-├── Typos or inaccuracies
+- Typos or inaccuracies
 
-├── Requests for new language topics
+- Requests for new language topics
 
-├── Code style improvements
+- Code style improvements
 
 PRs are welcome as long as they stay within the core‑C++ scope (no full DSA solutions here).
 
